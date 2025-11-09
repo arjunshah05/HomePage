@@ -8,11 +8,7 @@ export default function Hero() {
       <div className="flex flex-col items-center md:items-start w-full md:w-1/2 mb-10 md:mb-0">
         <div className="relative w-64 h-64 flex items-center justify-center">
          
-          <img
-            src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Mandala_orange.png"
-            alt="Mandala Pattern"
-            className="absolute w-full h-full opacity-20"
-          />
+          
           
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 relative">
             <span className="text-orange-600">AARYA</span> Films
