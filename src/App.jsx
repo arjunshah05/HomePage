@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="bg-pink-50 min-h-screen">
       <Navbar />
+      <div className="pt-20"></div>
       <Hero />
       <About />
       <Services />
