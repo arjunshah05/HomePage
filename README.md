@@ -33,12 +33,5 @@ The website reflects a minimal, elegant design with smooth layouts and a consist
 
 ---
 
-## 🚀 Getting Started
 
-Follow these simple steps to run the project locally 👇
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/yourusername/v-films-homepage.git
-cd v-films-homepage
 
