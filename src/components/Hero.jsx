@@ -15,7 +15,7 @@ export default function Hero() {
           />
           
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 relative">
-            <span className="text-orange-600">V</span> Films
+            <span className="text-orange-600">AARYA</span> Films
           </h1>
         </div>
       </div>
@@ -23,7 +23,7 @@ export default function Hero() {
      
       <div className="text-center md:text-left w-full md:w-1/2 space-y-4 text-gray-800">
         <h2 className="text-2xl md:text-3xl italic font-serif">
-          Varnan is where stories find their voice and form
+          Aarya is where stories find their voice and form
         </h2>
 
         <h3 className="text-lg text-orange-600 tracking-wider font-medium">

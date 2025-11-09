@@ -16,7 +16,7 @@ function App() {
       <Contact />
 
       <footer className="bg-[url('https://www.transparenttextures.com/patterns/beige-paper.png')] bg-cover bg-center border-b border-orange-200 py-4 px-8 flex flex-col md:flex-row items-center justify-center">
-        © 2025 V Films | All rights reserved
+        © 2025 AARYA Films | All rights reserved
       </footer>
     </div>
   );
