@@ -1,16 +1,44 @@
-# React + Vite
+# 🎬 V Films — Creative Studio Homepage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive single-page website built using **React.js** and **Tailwind CSS**, inspired by the design concept of *Varnan Films*.  
+This project is part of the **EZ Labs Front-End Intern Test**, showcasing clean UI, responsive design, and API-integrated contact form.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Overview
 
-## React Compiler
+**V Films** represents a creative platform where stories, art, and brands come together.  
+The website reflects a minimal, elegant design with smooth layouts and a consistent peach-themed aesthetic across all sections.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧩 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ **Fixed Navigation Bar** — Always visible at the top  
+✅ **Hero Section** — Elegant tagline with mandala background  
+✅ **About & Team Sections** — Descriptive layout with creative notes  
+✅ **Services Section** — Tilted image cards and quotes  
+✅ **Portfolio Section** — Project gallery with hover effects  
+✅ **Contact Form** — Connected with live API endpoint  
+✅ **Fully Responsive** — Works on all devices (mobile, tablet, desktop)
+
+---
+
+## ⚙️ Tech Stack
+
+- **React.js (Vite)**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- **HTML5 / CSS3**
+
+---
+
+## 🚀 Getting Started
+
+Follow these simple steps to run the project locally 👇
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/yourusername/v-films-homepage.git
+cd v-films-homepage
+
